@@ -6,7 +6,9 @@
 <br>
 
 <p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,flutter,kotlin,html,css,js,php,mysqls,ae,ps,py,react,tailwind&perline=5)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=c,cpp,java,flutter,kotlin,html,css,js,php,mysqls,ae,ps,py,react,tailwind&perline=" />
+  </a>
 </p>
 <br>
 
