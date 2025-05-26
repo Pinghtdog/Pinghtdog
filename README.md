@@ -1,10 +1,13 @@
-👋 Hi, I’m @Pinghtdog
-
+<p align="center">
+  <h1>👋 Hi, I’m @Pinghtdog </h1>
+  <break></break>
+</p>
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pinghtdog&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pinghtdog&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1> 💻 Tech Stack </h1>
+<h1 align="center"> 💻 Tech Stack </h1>
+<break></break>
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 <p align="center">
