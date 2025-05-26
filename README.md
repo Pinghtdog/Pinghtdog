@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=c,cpp,java,flutter,kotlin,html,css,js,php,mysqls,ae,ps,py,react,tailwind&perline=" />
+     <img src="https://skillicons.dev/icons?i=c,cpp,java,flutter,kotlin,html,css,js,php,mysql,ae,ps,py,react,tailwind&perline=5" />
   </a>
 </p>
 <br>
@@ -16,5 +16,8 @@
   
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pinghtdog&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pinghtdog&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pinghtdog&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pinghtdog&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</p>
