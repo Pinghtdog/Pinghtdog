@@ -1,5 +1,5 @@
 
-<img src="https://pbs.twimg.com/media/FQjHcp3agAQp9RX?format=jpg&name=large" alt="Picture" width="100%">
+<img src="https://images.pexels.com/photos/585752/pexels-photo-585752.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Picture" width="100%">
 <h1 align="center">👋 Hi, I’m Ping </h1>
 <br>
 
