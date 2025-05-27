@@ -14,8 +14,8 @@
 <h1 align="center">📊 GitHub Stats </h1>
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 16px; margin-bottom: 16px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pinghtdog&show_icons=true&theme=dark" alt="Ping's GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pinghtdog&theme=dark" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pinghtdog&show_icons=true&theme=dark&card_width=420" alt="Ping's GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pinghtdog&theme=dark&card_width=350" alt="GitHub Streak">
 </div>
 
 <div align="center">
