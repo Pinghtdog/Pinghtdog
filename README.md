@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Ping </h1>
-<img src="https://s1.picswalls.com/wallpapers/2014/08/16/philippines-wallpapers_072720906_210.jpg" alt="Picture" width="50">
+<img src="https://s1.picswalls.com/wallpapers/2014/08/16/philippines-wallpapers_072720906_210.jpg" alt="Picture" width="100%">
 
 <p align="center"> Currently relearning HTML, CSS, JavaScript and learning Python & React 👌🏻 </p>
 
