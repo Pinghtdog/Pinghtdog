@@ -1,5 +1,8 @@
+
+<img src="https://pbs.twimg.com/media/FQjHcp3agAQp9RX?format=jpg&name=large" alt="Picture" width="100%">
 <h1 align="center">👋 Hi, I’m Ping </h1>
-<img src="https://s1.picswalls.com/wallpapers/2014/08/16/philippines-wallpapers_072720906_210.jpg" alt="Picture" width="100%">
+<br>
+
 
 <p align="center"> Currently relearning HTML, CSS, JavaScript and learning Python & React 👌🏻 </p>
 
